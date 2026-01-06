@@ -1,9 +1,0 @@
-conda activate fake
-
-
-cd C:\Users\k3148\OneDrive\Desktop\fake_product_review
-
-
-
-
-python app.py
